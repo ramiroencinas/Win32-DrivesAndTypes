@@ -1,7 +1,7 @@
 Raku module - Provides a list of Win32 drives and drive types.
 
 ## OS Supported: ##
-* Win32 by Native calls
+Only Win32 by Native calls.
 
 ## Installing the module ##
 
@@ -12,7 +12,6 @@ Raku module - Provides a list of Win32 drives and drive types.
 
 ```raku 
 use v6;
-use lib 'lib';
 use Win32::DrivesAndTypes;    
 
 say "Drive Type";
