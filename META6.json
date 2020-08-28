@@ -1,0 +1,14 @@
+{
+	"perl"                    : "6.*",
+	"raku: "                  : "6.*",
+	"name"                    : "Win32::DrivesAndTypes",
+    "version"                 : "1.0.0",
+    "provides"                : {
+    "Win32::DrivesAndTypes"   : "lib/Win32/DrivesAndTypes.rakumod"},
+    "description"             : "Provides a list of Win32 drives and drive types.",
+    "authors"                 : ["Ramiro Encinas Alarza"],
+    "tags"                    : ["system","utils","Win32","filesystem"],
+    "depends"                 : [ ],	
+    "license"                 : "Artistic-2.0",
+    "source-url"              : "https://github.com/ramiroencinas/Win32-DrivesAndTypes.git"    
+}
