@@ -23,7 +23,7 @@ for Win32_Drives() {
 
 ## Win32_Drives() function ##
 
-Returns a @list of Strings with the drives detected (A..Z).
+Returns a @list of Strings with detected drives (A..Z).
 
 ## Win32_DriveType(Str) function ##
 
