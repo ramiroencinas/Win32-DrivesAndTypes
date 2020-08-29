@@ -19,6 +19,7 @@ say "Drive Type";
 for Win32_Drives() { 
 
 	say $_ ~ "     " ~ Win32_DriveType($_) 
+}
 ```
 
 ## Win32_Drives() function ##
