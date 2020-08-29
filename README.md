@@ -28,7 +28,7 @@ Returns a @list of Strings with detected drives (A..Z).
 
 ## Win32_DriveType(Str) function ##
 
-Accepts one string parameter with a letter drive (A..Z) and returns a Str with the drive type that can be:
+Accepts one string parameter with a letter drive (A..Z) and returns a string with the drive type that can be:
 
 * DRIVE_UNKNOWN: The type cannot be determined.
 * DRIVE_NO_ROOT_DIR: Invalid drive.
